@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.color .react-box{
+    width: 185px;
+    height: 188px;
+    background-color: #d165f8;
+}

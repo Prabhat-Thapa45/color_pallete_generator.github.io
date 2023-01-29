@@ -1,3 +1,3 @@
 # color_pallete_generator
 
-![alt text] (https://github.com/Prabhat-Thapa45/color_pallete_generator/blob/main/Screenshot%202023-01-29%20at%207.31.54%20PM.png)
+<img width="1393" alt="Screenshot 2023-01-29 at 7 31 54 PM" src="https://user-images.githubusercontent.com/46536791/215332506-ca59c7c3-d0ba-4034-93e4-0702b063de26.png">
